@@ -1,0 +1,3 @@
+line console 0
+password tamas
+end
